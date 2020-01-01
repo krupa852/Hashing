@@ -1,0 +1,7 @@
+The input matrix is:
+12
+34
+1
+2
+4
+3

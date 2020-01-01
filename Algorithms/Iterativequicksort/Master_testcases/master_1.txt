@@ -1,0 +1,6 @@
+print sorted list
+23
+35
+36
+45
+89

@@ -1,0 +1,6 @@
+print sorted list
+34
+48
+56
+56
+97
